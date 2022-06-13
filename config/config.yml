@@ -1,0 +1,9 @@
+tiles_dir : 'tmp/data'
+model_path : 'tmp/data/model/model.pkl'
+
+ratio_train : 0.8  # training set ratio
+ratio_test : 0.2  # test set ratio
+
+num_epochs : 7  # epochs for training
+
+use_lmdb : false
